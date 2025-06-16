@@ -25,10 +25,11 @@ To use a prompt:
 1. Open the prompt file and copy only the text under the "Prompt Text" section. Do not include any comments, metadata, or copyright notices (e.g., lines starting with `#` or `<!-- -->`).
 2. Start a new session in ChatGPT to ensure a clean context.
 3. Paste the copied prompt text at the beginning of the session to initialize your interaction.
+4. (Optional) To get a brief overview of UHDM, prepend this phrase to your prompt: "Provide a concise overview of UHDM."
 
 ## Prompt File
 
-➡️ [**Click here to view the UHDM prompt file**](./uhdm-prompt.txt)
+➡️ [**Click here to view the UHDM prompt file**](./UHDM-prompt.txt)
 
 ## License
 
