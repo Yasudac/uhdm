@@ -33,12 +33,7 @@ To install and activate Ultra‑High‑Density Mode:
 
 ## License
 
-This project is released under a **Research-Only License**:
-
-* 📄 Free for personal, academic, and non-commercial research use.
-* 🚫 **Commercial use is strictly prohibited.**
-* 🔁 You may modify or adapt the prompt for research purposes, but any derivative must retain attribution to the original framework.
-* 📢 If publishing results or analyses involving UHDM, please cite this repository and version.
+This project is licensed under CC BY-NC 4.0. See the LICENSE file for details. For non-commercial use only; contact ig.commerce.0@gmail.com for commercial inquiries.
 
 ---
 
