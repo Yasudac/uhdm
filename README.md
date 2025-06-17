@@ -1,4 +1,4 @@
-# Ultra‑High‑Density Mode (UHDM)
+# Intent-Driven Prompt Design (UHDM): Contextual Density Optimization for GPT-4o
 
 ## Overview
 
