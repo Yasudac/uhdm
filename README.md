@@ -1,4 +1,4 @@
-# Ultra‑High‑Density Mode (UHDM) v1.0
+# Ultra‑High‑Density Mode (UHDM)
 
 ## Overview
 
@@ -6,7 +6,7 @@
 
 Rather than relying solely on one-step answers, UHDM introduces a modular, internally parallelized reasoning strategy to produce richer and more resilient outputs. The approach emphasizes intention reinterpretation, dynamic prioritization based on user context, and embedded self-evaluation, making it ideal for experimental or analytical settings where depth and traceability are critical.
 
-This version (v1.0) provides a streamlined base layer suitable for immediate deployment within ChatGPT’s custom instructions. Future versions may introduce additional modules or enhanced meta-cognitive behaviors.
+This prompt provides a streamlined base layer suitable for immediate deployment within ChatGPT’s custom instructions. Future versions may introduce additional modules or enhanced meta-cognitive behaviors.
 
 ## Key Use Cases
 
